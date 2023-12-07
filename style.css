@@ -22,3 +22,12 @@ body{
 .hero p {
     font-size: 1.25em;
 }
+
+.program-img {
+    max-height: 150px;
+    max-width: 150px; /* Adjust the value based on your preference */
+}
+
+.text-larger {
+    font-size: 1.5em; /* Adjust the size as needed */
+}
